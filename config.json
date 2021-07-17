@@ -1,0 +1,38 @@
+{
+    "algo": "cryptonight",
+    "api": {
+        "port": 9000,
+        "access-token": null,
+        "worker-id": "goendoel",
+        "ipv6": false,
+        "restricted": true
+    },
+    "av": 0,
+    "background": true,
+    "colors": true,
+    "cpu-affinity": null,
+    "cpu-priority": null,
+    "donate-level": 1,
+    "huge-pages": true,
+    "hw-aes": null,
+    "log-file": "goendoelajar",
+    "max-cpu-usage": 75,
+    "pools": [
+        {
+            "url": "pool.supportxmr.com:5555",
+            "user": "85zkABSDVAUFuHYPu4CfDfMbK7CDRPYRNaiAdiPNt48W7qMkrwEEJwxiBvW1acfRDwjJ4nCcEnEWRWmHcd6S1oQkE6NpdvK",
+            "pass": "goendoel:goendoelpunya2@gmail.com",
+            "keepalive": true,
+            "nicehash": false,
+            "variant": -1,
+            "tls": false,
+            "tls-fingerprint": null
+        }
+    ],
+    "print-time": 60,
+    "retries": 5,
+    "retry-pause": 5,
+    "safe": false,
+    "syslog": false,
+    "threads": null
+}
